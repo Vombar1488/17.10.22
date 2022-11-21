@@ -5,3 +5,4 @@ SELECT * from grades - оценки
 SELECT * FROM users WHERE name = "Олег" - нахождение Олега
 
 Сайт https://vitalliivombar.wordpress.com/
+https://miro.com/app/board/uXjVPB3ScUs=/#tpicker-content 
