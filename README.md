@@ -6,8 +6,8 @@ SELECT * FROM users WHERE name = "Олег" - нахождение Олега
  # Мой сайт #
  Сайт https://vitalliivombar.wordpress.com
 
-# Таблица #
-https://miro.com/app/live-embed/uXjVPB3ScUs=/?moveToViewport=2284,-316,1413,601&embedId=584224174139
+# Таблица #<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPB3ScUs=/?moveToViewport=2284,-316,1413,601&embedId=584224174139" frameborder="0" scrolling="no" allowfullscreen></iframe>//
+
 https://miro.com/app/board/uXjVPB3ScUs=/#tpicker-content 
 
 # Формулы #
