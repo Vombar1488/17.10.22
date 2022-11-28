@@ -3,15 +3,13 @@ SELECT * from users - вывело всех пользователей
 SELECT * from information_schema.tables - название всех таличек 
 SELECT * from grades - оценки
 SELECT * FROM users WHERE name = "Олег" - нахождение Олега
- # Мой сайт  #
-
-Сайт https://vitalliivombar.wordpress.com/
-
+ # Мой сайт #
+ Сайт https://vitalliivombar.wordpress.com
 
 # Таблица #
+![Снимок экрана 2022-11-28 111232](https://user-images.githubusercontent.com/114376466/204192311-0beba2d3-c520-4a92-89d4-dac5ee8eb112.png)
 
 https://miro.com/app/board/uXjVPB3ScUs=/#tpicker-content 
-
 
 # Формулы #
 $E=mc^{2}\\$
