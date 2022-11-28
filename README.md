@@ -9,3 +9,7 @@ SELECT * FROM users WHERE name = "Олег" - нахождение Олега
 -
 
 https://miro.com/app/board/uXjVPB3ScUs=/#tpicker-content 
+-
+$E=mc^{2}\\$
+$I=\frac{U}{R}\\$
+$F=mg$
