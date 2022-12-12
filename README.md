@@ -19,5 +19,5 @@ $F=mg$
 
 ![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114376466/204191311-4732bfe1-c24a-4027-8bcc-d3efaa05756b.png)
 
-#Сайт на тильде№
+#Сайт на тильде#
 https://tilda.cc/page/?pageid=32540210
