@@ -21,3 +21,5 @@ $F=mg$
 
 #Сайт на тильде#
 https://tilda.cc/page/?pageid=32540210
+
+![pako_eNptkb8OgjAQxl-luck_kEiBih2cXJ1cuzS0KokFU4uJISw-koubz4BvJFpUCAyXXL77fXe5uwLiTEigcDLcyFXCd5or94yZZuk7PLxArrtEHo7o1GsrJKQTbIWoQeY_xCokGFWP57W64Vl1Hzc4CYdq1kj8tmg5PMQFPc7HQ7P6XHdE069rttuQpsdAzfdqHwIHlNSKJ6I-X8FSh](https://user-images.githubusercontent.com/114376466/208345143-06ac10c3-65e3-4e5a-bd37-0f884cd2f7fe.png)
